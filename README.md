@@ -12,3 +12,11 @@ Organizado para facilitar o aprendizado, reuso e entendimento das principais eta
 
 ## 📂 Estrutura do Repositório
 
+- Todos os notebooks se encontram na pasta preprocessing.
+
+---
+
+🎯 Objetivo
+
+Este repositório é parte do meu estudo contínuo em Inteligência Artificial.
+
