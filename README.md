@@ -1,9 +1,10 @@
+
 # 🤖 Machine Learning Project
 
 ## 📌 Objetivo
 Projeto de Machine Learning para classificação e regressão usando Python.
 
-Este repositório contém notebooks interativos voltados para estudos e experimentos em **aprendizado de máquina**, com foco em:
+Este repositório contém notebooks interativos  em **aprendizado de máquina**, com foco em:
 
 - 📊 **Pré-processamento de dados**
 - 📈 **Modelos de regressão**
@@ -34,5 +35,14 @@ ML_repository/
 └── docs/                   
     └── arquitetura.md
 ---
+
+=======
+- Todos os notebooks se encontram na pasta preprocessing.
+
+---
+
+🎯 Objetivo
+
+Este repositório é parte do meu estudo contínuo em Inteligência Artificial.
 
 
