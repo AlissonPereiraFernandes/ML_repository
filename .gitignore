@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
 .venv/
 .env
-data/
 *.pkl
