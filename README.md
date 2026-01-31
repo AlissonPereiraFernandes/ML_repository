@@ -15,7 +15,7 @@ Organizado para facilitar o aprendizado, reuso e entendimento das principais eta
 ---
 
 ## 📂 Estrutura do Repositório
-
+```
 ML_repository/
 ├── README.md
 ├── .gitignore
@@ -32,7 +32,7 @@ ML_repository/
 │
 └── docs/
     └── arquitetura.md
-
+```
 =======
 - Todos os notebooks se encontram na pasta preprocessing.
 
