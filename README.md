@@ -17,24 +17,21 @@ Organizado para facilitar o aprendizado, reuso e entendimento das principais eta
 ## 📂 Estrutura do Repositório
 
 ML_repository/
+├── README.md
+├── .gitignore
+├── requirements.txt
 │
-├── README.md               
-├── .gitignore              
-├── requirements.txt        
+├── data/
+│   ├── raw/
+│   └── processed/
 │
-├── data/                  
-│   ├── raw/               
-│   ├── processed/          
-│             
-│
-├── notebooks/              
+├── notebooks/
 │   ├── 01_exploracao.ipynb
 │   ├── 02_preprocessamento.ipynb
 │   └── 03_modelagem.ipynb
 │
-└── docs/                   
+└── docs/
     └── arquitetura.md
----
 
 =======
 - Todos os notebooks se encontram na pasta preprocessing.
