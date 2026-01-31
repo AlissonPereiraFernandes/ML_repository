@@ -33,9 +33,6 @@ ML_repository/
 └── docs/
     └── arquitetura.md
 ```
-=======
-- Todos os notebooks se encontram na pasta preprocessing.
-
 ---
 
 🎯 Objetivo
